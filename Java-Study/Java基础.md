@@ -119,7 +119,7 @@ JVM:java virtual machine   规范，模拟CPU
 
 ## 标识符和关键字
 
-<img src="https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125523631-1428763241.png" alt="image-20240308143927649" style="zoom:53%;" />
+<img src="https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125523631-1428763241.png" alt="image-20240308143927649" style="zoom: 50%;" />
 
 1. 标识符：类名、变量名、方法名。由字母、数字、下划线或$组成。
 2. 标识符只能以`$、字母、下划线`开始。`大小写敏感`
@@ -138,7 +138,7 @@ JVM:java virtual machine   规范，模拟CPU
 
    `String是引用类型，是类`
 
-   ![image-20240308154443290](https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524097-1179834229.png)
+   <img src="https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524097-1179834229.png" alt="image-20240308154443290" style="zoom:50%;" />
 
    ```java
    char='a';
@@ -171,7 +171,7 @@ JVM:java virtual machine   规范，模拟CPU
 
 5. 转义字符： \t 制表符  \n 换行 
 
-   ![image-20240308153527224](https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524525-1485794523.png)
+   <img src="https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524525-1485794523.png" alt="image-20240308153527224" style="zoom:50%;" />
 
 6. 比较基本数据类型，则==比较的是数值是否一致
 
@@ -181,7 +181,7 @@ JVM:java virtual machine   规范，模拟CPU
 
    new是创建了一个地址
 
-   ![image-20240308154017754](https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524873-220196296.png)
+   <img src="https://img2023.cnblogs.com/blog/3406637/202403/3406637-20240313125524873-220196296.png" alt="image-20240308154017754" style="zoom:50%;" />
 
 ## 类型转换
 
